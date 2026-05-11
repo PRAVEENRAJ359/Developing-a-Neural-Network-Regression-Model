@@ -4,7 +4,7 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+Neural Network Regression is a machine learning technique used to predict continuous numeric values based on input data. In this model, the neural network learns the relationship between input and output values through training. The network consists of an input layer, hidden layers, and an output layer. Each neuron performs calculations using weights and biases to improve prediction accuracy. The ReLU activation function is used to introduce non-linearity into the model. The dataset is normalized using MinMaxScaler and divided into training and testing data. Mean Squared Error (MSE) is used as the loss function, and the Adam optimizer updates the model weights during training. After multiple training epochs, the model becomes capable of predicting output values for new input data accurately.
 
 ## Neural Network Model
 Include the neural network model diagram.
